@@ -13,3 +13,4 @@ To download these challenges, type the following into the terminal:
 ```
 git clone https://github.com/BlueTot/progsoc-dev-challenges
 ```
+Alternatively, download the `challenges.zip` file by clicking the download button.
