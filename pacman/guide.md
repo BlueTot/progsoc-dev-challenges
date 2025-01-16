@@ -1,4 +1,4 @@
-#Pac Man
+# Pac Man
 
 _By Nok Hang Lo_
 
@@ -14,7 +14,7 @@ Eating normal food gives +1 score, eating special food gives +2 score and eating
 
 First try playing the original pacman at [this link](https://www.google.com/logos/2010/pacman10-i.html), then try the challenges below.
 
-##Tasks
+## Tasks
 
 1. The player can currently walk through walls. Can you fix it so that the player can only move to squares that are empty?
 

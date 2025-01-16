@@ -1,4 +1,4 @@
-##Assembly Simulator
+# Assembly Simulator
 
 _By Nok Hang Lo_
 
@@ -45,19 +45,19 @@ HLT : HALts the program to end it
 The values referred to above can all be numerical values (whole numbers or decimals) or they can be references to existing variables.
 
 NOW AFTER ALL THAT INTRODUCTORY FUN, HERE'S SOME CHALLENGES FOR YOU THEN!
-##Task 1
+## Task 1
 
 Currently the command run loops.exe will generate a command not found error even once loops.ass has been assembled. Fix this so you can also run your exe files!
-##Task 2
+## Task 2
 
 When debugging, the blue current line is still not perfectly clear. Change the code to also show a blue arrow to the left of the line number to mark more clearly which line is currently selected by the debugger.
-##Task 3
+## Task 3
 
 Complete the assembly code given to evaluate the expression x = (5 * (3 + 4)) ^ 2 - 7 and print x where ^ means the power/exponential operator.
-##Task 4
+## Task 4
 
 Find the bug in the assembly code given in task3.ass that is meant to calculate the sum of the first N natural numbers including N. For example the output should be 6 (1+2+3) if the user enters 3 but this isn't working if you try it.
-##Extension
+## Extensions
 
 - Find in the bug in the assembly code given in ext.ass that is meant to detect if a number is prime or not.
 - Processors support registers which are super high-fast small memories inside the processor. There are a batch of general purpose registers e.g. R1, R2, ... which you should be able to use to hold calculation results to avoid reading and writing to main memory as often which is slower. See what you can find out about registers. Could you add support for 8 general purpose registers to our theoretical assembly language? You should add support to load (LDA) from a main memory variable into one of these registers as well as storing (STO) from a register to a main memory variable.
