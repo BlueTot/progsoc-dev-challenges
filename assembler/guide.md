@@ -8,9 +8,9 @@ In this simulator, we experiment with this idea. Our theoretical and simplified 
 
 To see the simulator in action try running this code and then:
 
-    entering `view loop.ass`
-    entering `assemble loop.ass`
-    entering `debug loop.exe`
+entering `view loop.ass`
+entering `assemble loop.ass`
+entering `debug loop.exe`
 
 Then extend the console view and press Enter several times to watch it run through as it counts to 5 with the current assembly instruction being marked in blue.
 
